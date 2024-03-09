@@ -1,1 +1,1 @@
-# LMS_MySQL
+# Library Management Sysytem_MySQL
